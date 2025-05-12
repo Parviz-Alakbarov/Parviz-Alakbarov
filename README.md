@@ -13,30 +13,36 @@ Contact me via these platforms!
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/rxjs-%23d81b60.svg?style=for-the-badge&logo=reactivex&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=reactivex&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
 
+<img src="httphttps://img.shields.io/badge/Docker-2496EDs://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=reactivex&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Parviz-Alakbarov&count_private=true&show_icons=true&theme=tokyonight">
-</p>
+
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parviz-Alakbarov&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com/?user=Parviz-Alakbarov&theme=dark&mode=weekly">
   </p>
   
-  <a href="https://github.com/Parviz-Alakbarov/VmfAz_BackEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Parviz-Alakbarov&repo=VmfAz_BackEnd&show_icons=true&theme=tokyonight"</img>
+  <a href="https://github.com/Parviz-Alakbarov/EShopMicroservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Parviz-Alakbarov&repo=EShopMicroservices&show_icons=true&theme=tokyonight"</img>
   </a>
   <a href="https://github.com/Parviz-Alakbarov/VmfAz_FrontEnd">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Parviz-Alakbarov&repo=VmfAz_FrontEnd&show_icons=true&theme=tokyonight"</img>
